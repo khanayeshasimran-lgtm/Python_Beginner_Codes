@@ -1,4 +1,4 @@
-#example for 12 Multiplication table (from 1 to 10) in Python
+#Example for 12 Multiplication table (from 1 to 10) in Python
 num = 12
 # To take input from the user
 # num = int(input("Display multiplication table of? "))
